@@ -1,5 +1,5 @@
 # Define the variable board below.
 
-board;
+board = Array.new
 
-board[9];
+Array.new(9);
