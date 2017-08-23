@@ -2,4 +2,4 @@
 
 board = Array.new
 
-Array.new(9);
+board[9];
